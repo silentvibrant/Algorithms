@@ -12,7 +12,9 @@ namespace BinarySearch
             int answer = int.Parse(Console.ReadLine());
             int? position = BinarySearch(intArray, answer);
 
-            Console.WriteLine($"Your position is {position}");
+            Console.WriteLine(position != null
+                ? $"Your position is {position}"
+                : $"Your number doesn't exist in the list");
             Console.ReadLine();
         }
 
