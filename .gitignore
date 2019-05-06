@@ -8,3 +8,10 @@ Algorithms/obj/Algorithms.csproj.nuget.g.targets
 .vs/Algorithms/v15/Server/sqlite3/storage.ide-wal
 Algorithms/obj/Algorithms.csproj.nuget.g.props
 .vs/Algorithms/v15/Server/sqlite3/storage.ide-shm
+Algorithms/obj/BinarySearch.csproj.nuget.g.props
+Algorithms/obj/BinarySearch.csproj.nuget.g.targets
+Algorithms/obj/Debug/netcoreapp2.0/BinarySearch.AssemblyInfo.cs
+Algorithms/bin/Debug/netcoreapp2.0/BinarySearch.runtimeconfig.dev.json
+Algorithms/obj/Debug/netcoreapp2.0/BinarySearch.csproj.FileListAbsolute.txt
+Algorithms/bin/Debug/netcoreapp2.0/BinarySearch.deps.json
+Algorithms/bin/Debug/netcoreapp2.0/BinarySearch.runtimeconfig.json
